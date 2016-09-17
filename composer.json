@@ -1,5 +1,5 @@
 {
-  "name": "chao/alidayu-tts-laravel5",
+  "name": "chao/l5-alidayu-tts",
   "description": "阿里大于文本转语音通知laravel5封装包，提供语音通知功能。",
   "license": "MIT",
   "homepage": "https://www.zdbx.net",
