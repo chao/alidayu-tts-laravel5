@@ -2,16 +2,20 @@
   "name": "chao/alidayu-tts-laravel5",
   "description": "阿里大于文本转语音通知laravel5封装包，提供语音通知功能。",
   "license": "MIT",
+  "homepage": "https://www.zdbx.net",
+  "keywords": ["阿里云", "阿里大于", "阿里大于文本转语音通知", "文本转语音通知"],
+  "support": {
+    "issues": "https://github.com/chao/alidayu-tts-laravel5/issues",
+    "source": "https://github.com/chao/alidayu-tts-laravel5"
+  },
   "authors": [
     {
-      "name": "周超",
+      "name": "Chao ZHOU",
       "email": "chao@zhou.fr"
     }
   ],
-  "keywords": ["阿里云", "阿里大于", "阿里大于文本转语音通知", "文本转语音通知"],
-  "homepage": "https://www.zdbx.net",
   "require": {
-    "php": ">=5.5.0"
+    "php": ">=5.5.9"
   },
   "autoload": {
     "psr-4": {
