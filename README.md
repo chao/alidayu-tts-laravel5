@@ -6,7 +6,7 @@
 ### 1、使用Composer进行安装，在您工程目录下执行
 
 ```shell
-composer require chao/alidayu-tts-laravel5
+composer require "chao/alidayu-tts-laravel5"
 ```
 
 ### 2、增加Service Provider
